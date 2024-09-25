@@ -1,0 +1,2 @@
+# ARRAYUSE
+array in java 
